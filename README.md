@@ -1,2 +1,2 @@
-# CASA-WORD
+# CASA-MicrosoftWord
 CASA Microsoft Word Classes 
